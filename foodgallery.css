@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap');
+h2{
+    font-family: 'Bungee Inline', cursive;
+    color: rgb(0, 115, 50);
+    margin-top: 0%;
+    position: fixed;
+    margin-left: 0%;
+    padding-left: 5%;
+
+
+}
+#heading{
+    width: 150%;
+    height: 50px;
+    background-color:wheat ;
+    margin-top: -19%;
+    margin-left: -5%;
+    position: fixed
+    ;
+
+}
+body{
+    background-image: url("/images/pizzagallery.jpg");
+}
+.col{
+    width: 315px;
+    height: 650px;
+    float:left ;
+}
+.col-1{
+    width: 15%;
+    height: 170px;
+    margin-left: 8%;
+    margin-top: 5%;
+    background-color: rgba(94, 91, 86, 0.463)
+}
+.col-2{
+    width: 15%;
+    height: 170px;
+    margin-left: 5%;
+    margin-top: 5%;
+    background-color:rgba(94, 91, 86, 0.463)
+}
+.col-3{
+    width: 15%;
+    height: 170px;
+    margin-left: 5%;
+    margin-top: 5%;
+    background-color: rgba(94, 91, 86, 0.463)
+}
+.col-4{
+    width: 15%;
+    height: 170px;
+    margin-left: 5%;
+    margin-top: 5%;
+    background-color: rgba(94, 91, 86, 0.463)
+}
+
+.col:hover{
+    box-shadow: 5px 5px 5px 5px rgba(62, 60, 60, 0.411);
+}
+#mushroompizza{
+    width: 91%;
+    height: 90%;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+#italianpizza{
+    width: 91%;
+    height: 90%;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+#magheritta{
+    width: 91%;
+    height: 90%;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+#whiteclampie{
+    width: 91%;
+    height: 90%;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+button{
+    margin-top: 15%;
+    margin-left: 0%;
+    border-radius: 50%;
+    width: 50%;
+    height: 20%;
+    color: rgb(5, 5, 5);
+    background-color: rgba(255, 228, 196, 0.338);
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: rgb(0, 83, 21);
+    margin-top:8%;
+}
+button:hover{
+    background-color: rgba(0, 0, 0, 0.53);
+    color: bisque;
+    box-shadow: 5px 5px 5px 5px;
+}
+h1{
+    font-family: 'Bungee Inline', cursive;
+    margin-top: 19%;
+    margin-left: 17%;
+    background-color: rgba(153, 205, 50, 0.458);
+}
